@@ -41,7 +41,7 @@ public class Test implements Serializable{
         return "Test{" +
                 "name='" + name + '\'' +
                 ", username='" + username + '\'' +
-                ", password='" + password + '\'' +
+                ", password='" + password + '\'' + "Hello" +
                 '}';
     }
 }
