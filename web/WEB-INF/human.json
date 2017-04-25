@@ -1,0 +1,11 @@
+{
+  "name": "Yurii",
+  "surname": "Loienko",
+  "phones": ["0987564321", "012345678"],
+  "sites": ["http://youtube.com", "http://vk.com"],
+  "address": {
+    "country": "Ukraine",
+    "city": "Kiev",
+    "street": "Tupolev"
+  }
+}
