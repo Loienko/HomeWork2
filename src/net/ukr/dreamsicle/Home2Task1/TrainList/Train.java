@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task1;
+package net.ukr.dreamsicle.Home2Task1.TrainList;
 
 import com.sun.xml.internal.txw2.annotation.XmlElement;
 
@@ -69,7 +69,7 @@ public class Train {
 
     @Override
     public String toString() {
-        return "net.ukr.dreamsicle.Home2Task1.Train{" +
+        return "Train{" +
                 "id=" + id +
                 ", from='" + from + '\'' +
                 ", to='" + to + '\'' +

@@ -1,12 +1,14 @@
 package net.ukr.dreamsicle.Home2Task3;
 
-import com.sun.xml.internal.txw2.annotation.XmlElement;
 
+import javax.xml.bind.annotation.XmlElement;
+import javax.xml.bind.annotation.XmlRootElement;
 import java.util.List;
 
 /**
  * Created by Yura on 28.04.2017.
  */
+@XmlRootElement(name="results")
 public class Results {
 
     public List<Rate> rates;

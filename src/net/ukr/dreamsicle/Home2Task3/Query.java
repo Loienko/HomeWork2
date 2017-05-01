@@ -16,14 +16,6 @@ public class Query {
     private String lang;
     private Results results;
 
-    public Query(String yahoo, String count, String created, String lang, Results results) {
-        this.yahoo = yahoo;
-        this.count = count;
-        this.created = created;
-        this.lang = lang;
-        this.results = results;
-    }
-
     public String getYahoo() {
         return yahoo;
     }
