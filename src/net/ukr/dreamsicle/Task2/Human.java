@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task2;
+package net.ukr.dreamsicle.Task2;
 
 import java.util.List;
 

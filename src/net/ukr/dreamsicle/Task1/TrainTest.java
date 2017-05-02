@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task1;
+package net.ukr.dreamsicle.Task1;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBElement;

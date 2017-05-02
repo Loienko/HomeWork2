@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Lesson2XMLandJSONExample.SAX;
+package net.ukr.dreamsicle.XMLandJSONExample.SAX;
 
 import jdk.internal.org.xml.sax.Attributes;
 import jdk.internal.org.xml.sax.helpers.DefaultHandler;

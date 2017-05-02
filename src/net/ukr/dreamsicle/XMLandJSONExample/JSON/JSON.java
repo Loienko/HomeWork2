@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Lesson2XMLandJSONExample.JSON;
+package net.ukr.dreamsicle.XMLandJSONExample.JSON;
 
 import javax.management.Query;
 

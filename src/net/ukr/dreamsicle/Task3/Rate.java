@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task3;
+package net.ukr.dreamsicle.Task3;
 
 /**
  * Created by Yura on 29.04.2017.

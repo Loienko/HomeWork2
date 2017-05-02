@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task3;
+package net.ukr.dreamsicle.Task3;
 
 import com.sun.xml.internal.txw2.annotation.XmlElement;
 

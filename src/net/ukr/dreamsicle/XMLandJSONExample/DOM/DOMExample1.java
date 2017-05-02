@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Lesson2XMLandJSONExample.DOM;
+package net.ukr.dreamsicle.XMLandJSONExample.DOM;
 
 
 import org.w3c.dom.Document;
