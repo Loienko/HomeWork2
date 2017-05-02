@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Lesson2XMLandJSON.JAXB;
+package net.ukr.dreamsicle.Lesson2XMLandJSONExample.JAXB;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

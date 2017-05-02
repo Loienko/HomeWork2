@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Lesson2XMLandJSON.JAXB;
+package net.ukr.dreamsicle.Lesson2XMLandJSONExample.JAXB;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
