@@ -1,4 +1,4 @@
-package net.ukr.dreamsicle.Home2Task1.TrainList;
+package net.ukr.dreamsicle.Home2Task1;
 
 import com.sun.xml.internal.txw2.annotation.XmlElement;
 
