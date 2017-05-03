@@ -18,7 +18,7 @@ import java.io.File;
 public class DOMExample2 {
     public static void main(String[] args) {
         try {
-            File xmlFile = new File("c:\\Users\\Bios\\java_samples\\1.xml");
+            File xmlFile = new File("c:\\Users\\Bios\\java_samples\\catalog.xml");
 
             DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder documentBuilder = documentBuilderFactory.newDocumentBuilder();

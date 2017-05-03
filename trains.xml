@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trains>
+    <train>
+        <departureTime>13/02/2009 - 10:05</departureTime>
+        <from>London</from>
+        <to>Paris</to>
+    </train>
+    <train>
+        <departureTime>25/02/2009 - 11:52</departureTime>
+        <from>London</from>
+        <to>Monako</to>
+    </train>
+    <train>
+        <departureTime>15/02/2009 - 01:52</departureTime>
+        <from>London</from>
+        <to>Lviv</to>
+    </train>
+    <train>
+        <departureTime>16/02/2009 - 05:39</departureTime>
+        <from>London</from>
+        <to>Kiev</to>
+    </train>
+</trains>

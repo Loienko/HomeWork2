@@ -49,6 +49,6 @@ public class SAXExample extends DefaultHandler {
 
         XMLReader xmlReader = saxParser.getXMLReader();
         xmlReader.setContentHandler((ContentHandler) new SAXExample());
-        xmlReader.parse("file:///c:/1.xml");
+        xmlReader.parse("file:///c:/catalog.xml");
     }
 }

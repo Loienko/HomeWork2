@@ -13,7 +13,7 @@ public class TrainRunner {
     public static void main(String[] args) {
 
         try {
-            String filePath = "D:\\Java\\Java PRO\\Java PRO TASK\\HomeWork2\\web\\WEB-INF\\trains.xml";
+            String filePath = "D:\\Java\\Java PRO\\Java PRO TASK\\HomeWork2\\web\\WEB-INF\\prom.xml";
 
             File file = new File(filePath);
 
